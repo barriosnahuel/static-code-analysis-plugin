@@ -117,9 +117,9 @@ Since every tool has its own mechanism, you should refer to its documentation:
 
 - Android Lint: [Documentation](http://tools.android.com/tips/lint/suppressing-lint-warnings)
 - Checkstyle: [Documentation](http://checkstyle.sourceforge.net/config_annotation.html#SuppressWarnings)
-- CPD: [Documentation](https://pmd.github.io/pmd-5.5.1/usage/cpd-usage.html#Suppression) 
+- CPD: [Documentation](https://pmd.github.io/latest/usage/cpd-usage.html#Suppression) 
 - Findbugs: [Annotations documentation](http://findbugs.sourceforge.net/manual/annotations.html); @SupressFBWarnings [javadoc](http://findbugs.sourceforge.net/api/edu/umd/cs/findbugs/annotations/SuppressFBWarnings.html) 
-- PMD: [Documentation](https://pmd.github.io/pmd-5.5.1/usage/suppressing.html)
+- PMD: [Documentation](https://pmd.github.io/latest/usage/suppressing.html)
 
 
 # Copyright and License
